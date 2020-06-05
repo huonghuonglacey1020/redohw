@@ -16,3 +16,4 @@ So that I can organize and plan my business
 
 
 * You will need to perform a variety of SQL JOINS to complete this assignment, and it's recommended you review the week's activities if you need a refresher on this.
+https://gph.is/g/ZddQRzo gif
